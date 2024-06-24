@@ -72,8 +72,6 @@ body {
   color: var(--white);
   background-color: var(--navy-blue);
   text-align: center;
-  width: 1440px;
-  height: 600px;
 }
 .section-baner-title {
   font-weight: 700;
@@ -91,8 +89,10 @@ body {
   color: var(--white);
   border-radius: 4px;
   padding: 16px 32px;
-  width: 169px;
-  height: 56px;
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: var(--iris);
+}
+.hero .btn-baner:hover,
+.hero .btn-baner:focus {
+  background: var(--ocean);
 }
