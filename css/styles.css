@@ -21,6 +21,7 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   font-style: normal;
+  background: var(--white);
 }
 .link {
   text-decoration: none;
@@ -87,11 +88,65 @@ body {
   line-height: 150%;
   letter-spacing: 0.04em;
   color: var(--white);
-  border-radius: 4px;
-  padding: 16px 32px;
   background: var(--iris);
 }
 .hero .btn-baner:hover,
 .hero .btn-baner:focus {
   background: var(--ocean);
+}
+.advantages {
+  color: var(--navy-blue);
+}
+.advantages-list {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.02em;
+}
+.advantages-list-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: var(--slate);
+}
+.section-team {
+  background: var(--cloud);
+}
+.team-header {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 111%;
+  letter-spacing: 0.02em;
+  color: var(--navy-blue);
+}
+.team-list {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+  font-style: normal;
+}
+.section-footer {
+  background: var(--navy-blue);
+  font-weight: 400;
+  font-size: 16px;
+  list-style: none;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: var(--cloud);
+}
+.footer-logo-link {
+  font-family: var(--second-family);
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 117%;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: var(--cloud);
+}
+.footer-logo-blue {
+  color: var(--iris);
 }
