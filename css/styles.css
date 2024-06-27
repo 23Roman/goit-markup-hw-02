@@ -127,6 +127,8 @@ ul {
   color: #2e2f42;
   text-align: center;
   text-transform: capitalize;
+}
+.team-list-card {
   background-color: #ffffff;
 }
 .team-list-header {
