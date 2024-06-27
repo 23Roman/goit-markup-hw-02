@@ -132,12 +132,6 @@ ul {
 }
 .section-footer {
   background: #2e2f42;
-  font-weight: 400;
-  font-size: 16px;
-  list-style: none;
-  line-height: 150%;
-  letter-spacing: 0.02em;
-  color: #f4f4fd;
 }
 .footer-logo-link {
   font-family: "Raleway", sans-serif;
@@ -151,4 +145,11 @@ ul {
 }
 .footer-logo {
   color: #f4f4fd;
+}
+.footer-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: var(--cloud);
 }
