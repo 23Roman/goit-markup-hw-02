@@ -37,6 +37,7 @@ ul {
   line-height: 117%;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  text-decoration: none;
   color: #4d5ae5;
 }
 .logo-header-navy {
@@ -71,7 +72,7 @@ ul {
   color: #404bbf;
 }
 .hero {
-  /* color: #fff; */
+  color: #fff;
   background-color: #2e2f42;
 }
 .section-baner-title {
