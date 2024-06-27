@@ -87,13 +87,14 @@ font-style: normal
   text-align: center;
 }
 .btn-baner {
-  font-family: "Roboto", sans-serif
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.04em;
   color: #fff;
   background: #4d5ae5;
+  cursor: pointer;
 }
 .hero .btn-baner:hover,
 .hero .btn-baner:focus {
@@ -103,6 +104,7 @@ font-style: normal
   color: #2e2f42;
 }
 .advantages-list {
+  color: #2e2f42;
   font-weight: 500;
   font-size: 20px;
   line-height: 120%;
@@ -124,6 +126,8 @@ font-style: normal
   line-height: 111%;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  text-align: center;
+  text-transform: capitalize
 }
 .team-list {
   font-weight: 500;
@@ -146,6 +150,8 @@ font-weight: 700;
 font-size: 36px;
 line-height: 111%;
 letter-spacing: 0.02em;
+text-align: center;
+text-transform: capitalize
 color: var(--navy-blue);
 }
 
