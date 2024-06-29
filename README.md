@@ -27,7 +27,7 @@
 
 «A6» Всі зображення та текстовий контент взяті з макета.
 
-«A7» Підключений нормалізатор стилів [modern-normalize](https://cdnjs.com/libraries/modern-normalize).
+«A7» Підключений нормалізатор стилів **[modern-normalize](https://cdnjs.com/libraries/modern-normalize)**.
 
 «A8» Всі растрові зображення оптимізовані з використанням squoosh.
 
